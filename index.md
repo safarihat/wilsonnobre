@@ -12,3 +12,5 @@ We provide professional business brokerage services to help you buy or sell busi
 Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
 
 Phone: +55 (XX) XXXX-XXXX
+
+[About Us](/about)
